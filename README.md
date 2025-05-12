@@ -24,21 +24,31 @@ Through this period, I started recognizing that my interests leaned towards fiel
 
 As a result, I now have a better understanding of what I enjoy doing and how I can align my academic pursuits with a fulfilling career. The guidance from career professionals has been invaluable in showing me how to approach my career journey strategically, despite the initial uncertainty I faced.
 
+Please view my personalized career advice document:
 [View National Career Advice Portal PDF](./national-career-advice-portal.pdf)
+
+One of the key resources that helped me understand career options in Information Technology was the [Careers in ICT – IITPSA](https://www.iitpsa.org.za/careers-in-ict-info/) page. It provided practical insights into different roles, including Applications Development, which sparked my interest in the field.
 
 ---
 
 ## 💡 Skills & Interests
 
-### 📁 Evidence:
-- `skills.md` *(table of technical and soft skills)*
-- `skills-interests.png` *(optional concept map or brainstorm image)*
+Throughout my academic journey in Information and Communication Technology, I’ve developed a strong interest in backend development. My focus has consistently been on understanding how systems function behind the scenes—how data is processed, stored, and managed efficiently.
 
-### ✨ Reflection:
-**S:** I wanted to understand what I’m really good at — beyond just grades.  
-**T:** I did a skills inventory that helped me reflect on my experiences and interests.  
-**A:** I mapped my technical skills (like Java, HTML/CSS, and GitHub) to soft skills like creativity, empathy, and communication.  
-**R:** This process helped me realise I enjoy building digital products that are both functional and people-friendly — like my e-commerce project, *Digital Reads*.
+I’ve grown confident working with technologies such as **Java**, **SQL**, and database design. These tools have allowed me to build structured, logical solutions to complex problems. One of the most rewarding parts of my learning experience has been designing and implementing Java applications that interact with databases—this has not only sharpened my technical skills, but also helped me improve my ability to plan, debug, and manage code effectively.
+
+These experiences have helped me develop the following key skills:
+- Object-Oriented Programming (OOP) with Java  
+- Database design and SQL querying  
+- Writing clean, maintainable backend code  
+- Debugging and error handling  
+- Logical thinking and problem-solving  
+
+While I continue to strengthen my skills in backend development, I’ve also come to appreciate how important it is to understand the full lifecycle of application development. I'm eager to explore how these skills can be applied in real-world environments where secure, scalable, and efficient systems are needed.
+
+For a closer look at my personal projects and ongoing learning:
+
+🔗 [My Personal Portfolio Website](https://saadiqahhendricks.github.io/)
 
 ---
 
