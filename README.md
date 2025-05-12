@@ -98,6 +98,10 @@ Below is my completed CV, compiled during the Work Readiness and Work-Integrated
 
 📄 [View My CV](./CV.pdf)
 
+In addition, I have been actively tracking my job search process, which is essential for monitoring progress and opportunities. Here is the log where I document applications, feedback, and notes on potential opportunities:
+
+📄 [View My Job Search Log](./JOB%20SEARCH%20LOG.pdf)
+
 ---
 
 ## 🧩 Final Reflection
