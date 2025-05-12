@@ -98,7 +98,7 @@ The module I completed as part of my ICT studies included Work-Integrated Learni
 
 Below is a screenshot of the module page where the CV creation process was discussed, along with other career readiness activities.
 
-![WIL Module Screenshot](./screenshot.png)
+![WIL Module Screenshot](./screenshot1.png)
 
 ---
 
