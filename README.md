@@ -17,7 +17,6 @@ This space is a snapshot of my journey—full of creative sparks, challenges, an
 
 ## 🧭 Career Counselling
 
-### ✨ Reflection:
 Coming out of high school, I found myself uncertain about the specific career path to pursue. I took a deliberate approach and decided to take a couple of years to explore my interests, trying out different subjects and gaining exposure to various fields. This exploratory phase helped me understand that career choices are not always immediate, and it's okay to take time to identify what truly aligns with one's strengths and passions.
 
 Through this period, I started recognizing that my interests leaned towards fields that combined creativity with technology. While I initially lacked clarity, I eventually found my calling in Information Technology, focusing on areas like applications development and UI/UX design. This reflective process emphasized the importance of career counselling and mentorship, as these resources were key in helping me clarify my goals.
@@ -79,14 +78,27 @@ You can view my detailed personality assessment below:
 
 ## 📄 CV Creation
 
-### 📁 Evidence:
-- `cv.md` *(or link to a PDF version in the repo)*
+### Create a CV
 
-### ✨ Reflection:
-**S:** I had an old, generic CV that didn’t show who I really am.  
-**T:** I used Canva and GitHub to redesign my CV, with sections that highlight my student experience and real projects.  
-**A:** I focused on clarity, layout, and added personal projects like *FarmDirect Dashboard*.  
-**R:** I’m proud of my CV now — it feels like *me* — and I’m ready to apply for internships with confidence.
+Creating a CV is an essential step in shaping my professional identity. It’s not just a document for applying to jobs but also an opportunity to reflect on my skills, achievements, and aspirations.
+
+As an ICT Applications Development student, the process of putting together my CV made me critically assess the technical skills I have acquired so far—like **Java**, **SQL**, and **backend development**—and how they fit into my long-term career path. It also encouraged me to think about my personal growth and the value I want to bring to the technology sector.
+
+I used this opportunity to:
+- **Organize my technical skills**: Highlighting programming languages, database management, and problem-solving abilities.
+- **Showcase academic projects**: Demonstrating my hands-on experience with technologies.
+- **Reflect on soft skills**: Communication, adaptability, and collaboration, which I know are key in ICT.
+- **Ensure clarity and professionalism**: Structuring my CV in a way that is concise, impactful, and easy to read.
+
+The process of creating a CV isn’t just about listing accomplishments, but rather about making strategic choices on how to present the best version of myself to potential employers.
+
+### Work-Integrated Learning (WIL) Module
+
+The module I completed as part of my ICT studies included Work-Integrated Learning (WIL), which covered important career development aspects such as CV creation. This module was an essential step in preparing for my professional career, as it provided structured guidance on presenting my skills and achievements effectively.
+
+Below is a screenshot of the module page where the CV creation process was discussed, along with other career readiness activities.
+
+![WIL Module Screenshot](./screenshot.png)
 
 ---
 
