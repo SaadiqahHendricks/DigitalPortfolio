@@ -24,7 +24,7 @@ Through this period, I started recognizing that my interests leaned towards fiel
 
 As a result, I now have a better understanding of what I enjoy doing and how I can align my academic pursuits with a fulfilling career. The guidance from career professionals has been invaluable in showing me how to approach my career journey strategically, despite the initial uncertainty I faced.
 
-
+[View National Career Advice Portal PDF](./national-career-advice-portal.pdf)
 
 ---
 
