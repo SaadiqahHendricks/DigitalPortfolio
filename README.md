@@ -104,14 +104,9 @@ Below is a screenshot of the module page where the CV creation process was discu
 
 ## 📬 CV Submission
 
-### 📁 Evidence:
-- `cv_submission_proof.png` *(optional: screenshot of email draft or submission page)*
+Below is my completed CV, compiled during the Work Readiness and Work-Integrated Learning (WIL) module. It highlights my academic background, technical skills (especially in backend development), and professional interests.
 
-### ✨ Reflection:
-**S:** I had to take that final step and actually share my work.  
-**T:** I drafted a polite, professional email to attach my CV.  
-**A:** I also included a short introduction and linked my portfolio.  
-**R:** This helped me practise communication and gave me a small boost in confidence as a young professional.
+📄 [View My CV](./CV.pdf)
 
 ---
 
