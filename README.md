@@ -122,4 +122,4 @@ I’m excited to continue growing in areas like:
 ### 🔗 Connect with Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/saadiqahhendricks)  
-💻 [My Projects on GitHub](https://saadiqahhendricks.github.io/)
+💻 [My Personal Website – GitHub Projects, Skills, Contact Info, About Me](https://saadiqahhendricks.github.io/)
