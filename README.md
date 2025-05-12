@@ -78,19 +78,9 @@ You can view my detailed personality assessment below:
 
 ## 📄 CV Creation
 
-### Create a CV
+Finalizing my CV has been a valuable learning experience, as it allowed me to reflect on my academic journey and professional goals. It was an opportunity to ensure that all my skills, achievements, and aspirations were clearly presented. While creating the CV, I paid attention to the structure and formatting, making sure it was easy to read and tailored for the types of roles I am interested in.
 
-Creating a CV is an essential step in shaping my professional identity. It’s not just a document for applying to jobs but also an opportunity to reflect on my skills, achievements, and aspirations.
-
-As an ICT Applications Development student, the process of putting together my CV made me critically assess the technical skills I have acquired so far—like **Java**, **SQL**, and **backend development**—and how they fit into my long-term career path. It also encouraged me to think about my personal growth and the value I want to bring to the technology sector.
-
-I used this opportunity to:
-- **Organize my technical skills**: Highlighting programming languages, database management, and problem-solving abilities.
-- **Showcase academic projects**: Demonstrating my hands-on experience with technologies.
-- **Reflect on soft skills**: Communication, adaptability, and collaboration, which I know are key in ICT.
-- **Ensure clarity and professionalism**: Structuring my CV in a way that is concise, impactful, and easy to read.
-
-The process of creating a CV isn’t just about listing accomplishments, but rather about making strategic choices on how to present the best version of myself to potential employers.
+Submitting the CV made me feel more confident in my professional identity and showed me how essential it is to constantly update and refine how I present myself in the job market. It also helped me realize that having a well-crafted CV is not just about listing qualifications, but about telling a story of growth, skills, and potential. This exercise gave me a clearer understanding of how to strategically position myself for future opportunities.
 
 ### Work-Integrated Learning (WIL) Module
 
@@ -126,6 +116,6 @@ I’m excited to continue growing in areas like:
 ---
 
 ### 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/saadiqah-hendricks) *(placeholder – update yours)*
-- 💻 [My Projects on GitHub](https://github.com/saadiqah-hendricks)
-- 🖼️ [Instagram Page (if applicable)](https://instagram.com/yourpage)
+
+💼 [LinkedIn](https://www.linkedin.com/in/saadiqahhendricks)  
+💻 [My Projects on GitHub](https://saadiqahhendricks.github.io/)
