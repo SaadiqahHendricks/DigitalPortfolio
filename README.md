@@ -69,6 +69,10 @@ These qualities have proven helpful both in academic group work and in independe
 
 I believe that being aware of one’s personality isn’t just useful for career choice—it also helps build better working relationships and encourages growth in the right direction.
 
+You can view my detailed personality assessment below:
+
+[View My Personality Report (PDF)](./My%20Personality%20Test%20-%20Type%208.pdf)
+
 ---
 
 ## 📄 CV Creation
