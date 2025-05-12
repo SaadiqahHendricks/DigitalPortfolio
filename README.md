@@ -54,14 +54,20 @@ For a closer look at my personal projects and ongoing learning:
 
 ## 🧬 Personality Assessment
 
-### 📁 Evidence:
-- `personality-type.png` *(MBTI screenshot or test result)*
+Understanding my personality has helped me make more intentional decisions about my career direction. I consider myself a logical and detail-oriented individual, which naturally aligns with my interest in backend development—where structure, precision, and problem-solving are essential.
 
-### ✨ Reflection:
-**S:** I’ve always been curious about how my personality affects group work and decision-making.  
-**T:** I took a personality assessment (MBTI) to gain insights.  
-**A:** My result was **ENFP** – “The Campaigner” – which reflects my creative, people-oriented approach.  
-**R:** I now see why I thrive in brainstorming, UI design, and group project leadership. It also helps me understand how I can improve in structured environments.
+I am also a quiet, observant thinker who prefers meaningful collaboration over constant social interaction. This helps me thrive in environments where focus, independence, and depth of thought are valued. However, I am also adaptable and enjoy working in teams, especially when solving shared challenges or reviewing code collaboratively.
+
+Some of the traits I’ve noticed that support my role in tech include:
+- Strong analytical and critical thinking  
+- Patience and persistence when solving problems  
+- A calm, grounded approach under pressure  
+- A desire to continuously learn and improve  
+- Good listening skills and attention to detail  
+
+These qualities have proven helpful both in academic group work and in independent coding tasks. They shape how I approach challenges and allow me to contribute thoughtfully to technical projects.
+
+I believe that being aware of one’s personality isn’t just useful for career choice—it also helps build better working relationships and encourages growth in the right direction.
 
 ---
 
