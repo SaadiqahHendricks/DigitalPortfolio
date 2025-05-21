@@ -122,4 +122,5 @@ I’m excited to continue growing in areas like:
 ### 🔗 Connect with Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/saadiqahhendricks)  
-💻 [My Personal Website – GitHub Projects, Skills, Contact Info, About Me](https://saadiqahhendricks.github.io/)
+💻 [My Personal Website – GitHub Projects, Skills, Contact Info, About Me](https://saadiqahhendricks.github.io/)  
+✉️ Email: saadiqahhendricks2909@gmail.com | 221095136@mycput.ac.za
